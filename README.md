@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Запуск
 ```bash
-python main.py
+python mainPhysics.py
 ```
 
 ## Управление и параметры
@@ -47,14 +47,4 @@ python main.py
   - `width`, `height` — размер окна,
   - `sync_threshold` — порог фиксации синхронизации.
 
-## Структура репозитория
-```
-.
-├─ assets/               # медиа (скриншоты, GIF)
-├─ main.py               # приложение Pygame
-├─ requirements.txt
-├─ LICENSE
-├─ .gitignore
-└─ README.md
-```
 
